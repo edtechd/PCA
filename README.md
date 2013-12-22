@@ -1,4 +1,4 @@
 PCA
 ===
 
-Principal components analysis for computer tomography images segmentation
+Implementation of principal components analysis for computer tomography images segmentation
